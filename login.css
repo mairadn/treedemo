@@ -61,6 +61,19 @@ a:hover{
     color:#04A74B;
     align-items: center;
 }
+.ctclogo{
+    opacity: 65%;
+}
+.fblogo{
+    opacity: 65%;
+    margin-top: 5px;
+    margin-left: -80px;
+}
+.contact>div{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
 .logo{
     width: 30%;
     height: 100%;
